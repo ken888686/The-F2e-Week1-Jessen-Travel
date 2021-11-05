@@ -1,0 +1,22 @@
+{
+  "name": "the-f2e-week1-jessen-travel",
+  "version": "1.0.0",
+  "description": "[臺灣旅遊景點導覽rwd](https://www.figma.com/file/uTXbLAYaEaoSCfkaZh65Eh)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ken888686/The-F2e-Week1-Jessen-Travel.git"
+  },
+  "author": "Aaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ken888686/The-F2e-Week1-Jessen-Travel/issues"
+  },
+  "homepage": "https://github.com/ken888686/The-F2e-Week1-Jessen-Travel#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
